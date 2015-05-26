@@ -18,6 +18,7 @@ div{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 4000px;
+    background-color: black;
 }
 
 .accord{
@@ -44,4 +45,8 @@ div{
 .fart{
     width:150px;
     height:auto;
+}
+iframe{
+    padding-left: 355px;
+    
 }

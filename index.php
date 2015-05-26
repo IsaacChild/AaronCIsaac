@@ -165,7 +165,7 @@
           <div class="caption">
             <h3>Spider-Verse</h3>
             <p>The Inheritors have been traveling alternate dimensions killing off Spider-Men to gain  more powerful. Enable to stop them all the remaining Spider-Men have to team up to end their plan.  </p>
-            <p><a href="http://www.w3schools.com/css/" class="btn btn-primary" role="button">video</a> <a href="#" class="btn btn-default" role="button">Get It</a></p>
+            <p><a href="Spiderverse.html" class="btn btn-primary" role="button">video</a> <a href="#" class="btn btn-default" role="button">Get It</a></p>
           </div>
         </div>
       </div>
