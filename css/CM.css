@@ -47,11 +47,14 @@ div{
     height:auto;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 iframe{
     padding-left: 355px;
     
 }
 =======
+=======
+>>>>>>> 2a5d718302b6b5f31cdaa6e64c08783d52534131
 
 #test {
     float: left;
@@ -72,5 +75,9 @@ iframe{
   .img{
       height:150px;
       width: auto;
+<<<<<<< HEAD
+  }
+>>>>>>> 2a5d718302b6b5f31cdaa6e64c08783d52534131
+=======
   }
 >>>>>>> 2a5d718302b6b5f31cdaa6e64c08783d52534131

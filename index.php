@@ -159,10 +159,13 @@ require_once(__DIR__ . "/controller/create-db.php");
           <img class="fart" src="">
           <div class="caption">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <h3>Spider-Verse</h3>
             <p>The Inheritors have been traveling alternate dimensions killing off Spider-Men to gain  more powerful. Enable to stop them all the remaining Spider-Men have to team up to end their plan.  </p>
             <p><a href="Spiderverse.html" class="btn btn-primary" role="button">video</a> <a href="#" class="btn btn-default" role="button">Get It</a></p>
 =======
+=======
+>>>>>>> 2a5d718302b6b5f31cdaa6e64c08783d52534131
             <h3></h3>
             <p></p>
             <p><a href="http://www.w3schools.com/css/" class="btn btn-primary" role="button">video</a> <a href="#" class="btn btn-default" role="button">Get It</a></p>
