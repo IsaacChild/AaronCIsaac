@@ -74,8 +74,7 @@ require_once(__DIR__ . "/controller/create-db.php");
   </div><!-- /.container-fluid -->
 </nav>
         
-        <div><iframe width="560" height="315" src="https://www.youtube.com/embed/ueCG29Y6EyU?list=PL6FhCd_HO_AAwx6IROb_vSwRVaCuc9efL" frameborder="0" allowfullscreen></iframe></div>
-
+        <div><iframe width="560" height="315" src="https://www.youtube.com/embed/3b9fKkHlqpA" frameborder="0" allowfullscreen></iframe></div>
  <div class="bs-example" data-example-id="thumbnails-with-custom-content">
     
       <div class="col-sm-6 col-md-4">
